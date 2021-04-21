@@ -1,15 +1,22 @@
-# trello-outreach-automation
+# Trello Automation Scripts
 
+## Introduction
 A collection of scripts created to help automate the prospecting process for a digital marketing client
 Trello is used to manage potential prospects and keep pipeline organised and all scripts are created in
 Python and interacts with the Trello API
 
-# installation
+# Technologies
 
-Must have Python 3.X installed as well as the Python Trello API. You can get the Trello API if you have pip installed by running
-$ pip install trello in the terminal
+Python 3
 
-# usage
+# Setup
 
-APIKey, token, boardname variables used within the scripts must be found from your personal trello settings
+APIKey, token, boardname variables used within the scripts must be found from your personal trello settings.
+
+Make sure the trello python package is installed on your system. You can install it using pip.
+
+```
+$ pip install trello
+
+```
 
